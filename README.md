@@ -1,0 +1,2 @@
+ Customer Segmentation Analysis: 
+ In this project, I performed customer segmentation analysis for an e-commerce company by analyzing customer behavior and purchase patterns. The goal was to group customers into distinct segments, enabling the company to implement targeted marketing strategies, improve customer satisfaction, and enhance overall business strategies. This project deepened my understanding of customer behavior analytics and the strategic value of segmentation in business operations.
